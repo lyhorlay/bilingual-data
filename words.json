@@ -1,0 +1,28 @@
+{
+  "vocabulary": [
+    { "word": "喜欢", "translation": "To like", "type": "verb" },
+    { "word": "爱", "translation": "To love, love", "type": "verb, noun" },
+    { "word": "妈妈", "translation": "Mommy", "type": "noun" },
+    { "word": "爸爸", "translation": "Daddy", "type": "noun" },
+    { "word": "爷爷", "translation": "Grandfather", "type": "noun" },
+    { "word": "奶奶", "translation": "Grandmother", "type": "noun" },
+    { "word": "学校", "translation": "School", "type": "noun" },
+    { "word": "老师", "translation": "Teacher", "type": "noun" },
+    { "word": "学生", "translation": "Student", "type": "noun" },
+    { "word": "学习", "translation": "To study", "type": "verb" },
+    { "word": "书", "translation": "Book", "type": "noun" },
+    { "word": "笔", "translation": "Pen", "type": "noun" }
+  ],
+  "flashcards": [
+    { "word": "水", "translation": "water", "image": "water.png" },
+    { "word": "茶", "translation": "Tea", "image": "tea_image" },
+    { "word": "苹果", "translation": "apple", "image": "eat_image" },
+    { "word": "出租车", "translation": "Taxi", "image": "taxi_image" },
+    { "word": "爱", "translation": "love", "image": "love_image" },
+    { "word": "电脑", "translation": "Computer", "image": "computer_image" },
+    { "word": "书", "translation": "Book", "image": "book_image" },
+    { "word": "楼", "translation": "building", "image": "building_image" },
+    { "word": "药", "translation": "pill", "image": "pill_image" },
+    { "word": "照片", "translation": "photo", "image": "photo_image" }
+  ]
+}
